@@ -1,0 +1,1613 @@
+﻿Build started 2020. 09. 16. 10:43:27.
+Environment at start of build:
+ALLUSERSPROFILE = C:\ProgramData
+APPDATA = C:\Users\aky99\AppData\Roaming
+CGAL_DIR = C:\Program Files\CGAL-4.13
+COMMANDER_DRIVE = C:
+COMMANDER_EXE = C:\Program Files\totalcmd\TOTALCMD64.EXE
+COMMANDER_INI = C:\Users\aky99\AppData\Roaming\GHISLER\wincmd.ini
+COMMANDER_INSTANCE = 1
+COMMANDER_PATH = C:\Program Files\totalcmd
+CommonProgramFiles = C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPUTERNAME = DRAGOSTEJ-PC
+ComSpec = C:\WINDOWS\system32\cmd.exe
+CUDA_PATH = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2
+CUDA_PATH_V10_2 = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2
+DriverData = C:\Windows\System32\Drivers\DriverData
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING = Default
+HOMEDRIVE = C:
+HOMEPATH = \Users\aky99
+LOCALAPPDATA = C:\Users\aky99\AppData\Local
+LOGONSERVER = \\DRAGOSTEJ-PC
+MSBuildLoadMicrosoftTargetsReadOnly = true
+NUMBER_OF_PROCESSORS = 8
+NVCUDASAMPLES10_2_ROOT = C:\ProgramData\NVIDIA Corporation\CUDA Samples\v10.2
+NVCUDASAMPLES_ROOT = C:\ProgramData\NVIDIA Corporation\CUDA Samples\v10.2
+NVTOOLSEXT_PATH = C:\Program Files\NVIDIA Corporation\NvToolsExt\
+OneDrive = C:\Users\aky99\OneDrive
+OneDriveConsumer = C:\Users\aky99\OneDrive
+OPENCV_DIR = e:\Programs\opencv\build\x86\vc14\
+OS = Windows_NT
+Path = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\ImageMagick-7.0.8-Q16;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;c:\Program Files\boost_1_63_0\lib32-msvc-14.0;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\CMake\bin;C:\Program Files\Git\cmd;c:\Program Files\CGAL-4.13\auxiliary\gmp\lib;C:\Program Files\CGAL-4.13\build\bin;e:\Programs\opencv\build\x86\vc14\bin\;C:\Program Files\MATLAB\R2018b\runtime\win64;C:\Program Files\MATLAB\R2018b\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\aky99\AppData\Local\Microsoft\WindowsApps;E:\Programs\texlive\2019\bin\win32;
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PkgDefApplicationConfigFile = C:\Users\aky99\AppData\Local\Microsoft\VisualStudio\15.0_4f9cc132\devenv.exe.config
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_ARCHITEW6432 = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 5e03
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files (x86)
+ProgramFiles(x86) = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Intel\Wired Networking\
+PUBLIC = C:\Users\Public
+SESSIONNAME = Console
+SystemDrive = C:
+SystemRoot = C:\WINDOWS
+TEMP = C:\Users\aky99\AppData\Local\Temp
+TMP = C:\Users\aky99\AppData\Local\Temp
+USERDOMAIN = DRAGOSTEJ-PC
+USERDOMAIN_ROAMINGPROFILE = DRAGOSTEJ-PC
+USERNAME = dragostej
+USERPROFILE = C:\Users\aky99
+VisualStudioDir = C:\Users\aky99\Documents\Visual Studio 2017
+VisualStudioEdition = Microsoft Visual Studio Enterprise 2017
+VisualStudioVersion = 15.0
+VSAPPIDDIR = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\
+VSAPPIDNAME = devenv.exe
+VSLANG = 1033
+VSSKUEDITION = Enterprise
+windir = C:\WINDOWS
+
+10:43:27.582     1>Project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" on node 2 (Clean target(s)).
+10:43:27.582     1>Initial Properties:
+                   _AfterCompileWinFXInternalDependsOn = 
+                           PrepareResourcesForSatelliteAssemblies;
+                           MergeLocalizationDirectives;
+                           AfterCompileWinFX
+                       
+                   _ApplicableDebuggers = Desktop
+                   _BuildActionType = Build
+                   _BuildSuffix = 
+                   :VCEnd
+                   _CheckDev11ToolsInstalled = true
+                   _CompileTargetNameForLocalType = _CompileTemporaryAssembly
+                   _DebugSymbolsProduced = false
+                   _DefaultPlatform = win32
+                   _DeploymentApplicationManifestIdentity = BoardGame.exe
+                   _DeploymentBuiltUpdateInterval = 0
+                   _DeploymentBuiltUpdateIntervalUnits = Days
+                   _DeploymentDeployManifestIdentity = BoardGame.application
+                   _DeploymentFileMappingExtension = 
+                   _DeploymentPublishableProjectDefault = true
+                   _DeploymentTargetApplicationManifestFileName = BoardGame.exe.manifest
+                   _DeploymentUrl = 
+                   _Dev11Installed = 
+                   _Dev11WDExpressInstalled = 
+                   _DirectoryBuildPropsBasePath = 
+                   _DirectoryBuildPropsFile = Directory.Build.props
+                   _DirectoryBuildTargetsBasePath = 
+                   _DirectoryBuildTargetsFile = Directory.Build.targets
+                   _DocumentationFileProduced = false
+                   _FullFrameworkReferenceAssemblyPaths = C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0
+                   _GenerateBindingRedirectsIntermediateAppConfig = Release\BoardGame.exe.config
+                   _GenerateRestoreGraphProjectEntryInputProperties = ExcludeRestorePackageImports=true
+                   _GetChildProjectCopyToOutputDirectoryItems = true
+                   _HandlePackageFileConflictsAfter = ;ResolveNuGetPackageAssetsNonAOT
+                   _IgnoreInstalledPlatformToolset_v110 = true
+                   _IgnoreInstalledPlatformToolset_v110_wp80 = true
+                   _IgnoreInstalledPlatformToolset_v110_xp = true
+                   _InitialBaseIntermediateOutputPath = obj\
+                   _InitialMSBuildProjectExtensionsPath = e:\Work\coding\c++\BoardGame\BoardGame\obj\
+                   _ManifestDependsOn = 
+                         ;
+                         
+                         ;
+                         ComputeManifestInputsTargets;
+                       ;
+                         Manifest;
+                         ComputeManifestGeneratedLinkerInputs;
+                       
+                   _NuGetRuntimeIdentifierPlatformTargetSuffix = -x86
+                   _NuGetRuntimeIdentifierWithoutAot = win-x86
+                   _OriginalConfiguration = Release
+                   _OriginalPlatform = Win32
+                   _PlatformDefaultPropsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\\Platforms\Win32\\Platform.default.props
+                   _PlatformFolder = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Platforms\Win32\
+                   _PlatformToolsetFriendlyNameFor_v100 = Visual Studio 2010 (v100)
+                   _PlatformToolsetFriendlyNameFor_v110 = Visual Studio 2012 (v110)
+                   _PlatformToolsetFriendlyNameFor_v110_wp80 = Windows Phone 8.0 (v110_wp80)
+                   _PlatformToolsetFriendlyNameFor_v110_xp = Visual Studio 2012 - Windows XP (v110_xp)
+                   _PlatformToolsetFriendlyNameFor_v120 = Visual Studio 2013 (v120)
+                   _PlatformToolsetFriendlyNameFor_v120_wp81 = Windows Phone 8.1 (v120_wp81)
+                   _PlatformToolsetFriendlyNameFor_v120_xp = Visual Studio 2013 - Windows XP (v120_xp)
+                   _PlatformToolsetFriendlyNameFor_v140 = Visual Studio 2015 (v140)
+                   _PlatformToolsetFriendlyNameFor_v140_clang_3_7 = Clang 3.7 with Microsoft CodeGen (v140_clang_3_7)
+                   _PlatformToolsetFriendlyNameFor_v140_clang_c2 = Visual Studio 2015 - Clang with Microsoft CodeGen (v140_clang_c2)
+                   _PlatformToolsetFriendlyNameFor_v140_xp = Visual Studio 2015 - Windows XP (v140_xp)
+                   _PlatformToolsetFriendlyNameFor_v141 = Visual Studio 2017 (v141)
+                   _PlatformToolsetFriendlyNameFor_v141_clang_c2 = Visual Studio 2017 - Clang with Microsoft CodeGen (v141_clang_c2)
+                   _PlatformToolsetFriendlyNameFor_v141_xp = Visual Studio 2017 - Windows XP (v141_xp)
+                   _PlatformToolsetFriendlyNameFor_v90 = Visual Studio 2008 (v90)
+                   _PlatformToolsetShortNameFor_v100 = Visual Studio 2010
+                   _PlatformToolsetShortNameFor_v110 = Visual Studio 2012
+                   _PlatformToolsetShortNameFor_v110_wp80 = Windows Phone 8.0
+                   _PlatformToolsetShortNameFor_v110_xp = Visual Studio 2012 - Windows XP
+                   _PlatformToolsetShortNameFor_v120 = Visual Studio 2013
+                   _PlatformToolsetShortNameFor_v120_wp81 = Windows Phone 8.1
+                   _PlatformToolsetShortNameFor_v120_xp = Visual Studio 2013 - Windows XP
+                   _PlatformToolsetShortNameFor_v140 = Visual Studio 2015
+                   _PlatformToolsetShortNameFor_v140_xp = Visual Studio 2015 - Windows XP
+                   _PlatformToolsetShortNameFor_v90 = Visual Studio 2008
+                   _ProjectDefaultTargets = Build
+                   _PropertySheetDisplayName = Whole Program Optimization
+                   _RequireMCPass2ForMainAssembly = false
+                   _RequireMCPass2ForSatelliteAssemblyOnly = false
+                   _ResolveReferenceDependencies = false
+                   _ResourceCompileDependsOn = 
+                         
+                         ;
+                         BeforeResourceCompile;
+                       ;
+                         ;
+                         MakeDirsForResourceCompile;
+                         ResourceCompile;
+                         
+                         ;
+                         AfterResourceCompile;
+                       
+                       
+                   _ResourceNameInMainAssembly = BoardGame.g.resources
+                   _SGenDllCreated = false
+                   _SGenDllName = BoardGame.XmlSerializers.dll
+                   _SGenGenerateSerializationAssembliesConfig = Auto
+                   _TargetFrameworkDirectories = C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0
+                   _ToolsetFound = true
+                   _ToolsetPropsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\\Platforms\Win32\PlatformToolsets\v141\Toolset.props
+                   _ToolsetTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\\Platforms\Win32\PlatformToolsets\v141\Toolset.targets
+                   _UpgradePlatformToolsetFor_v100 = v141
+                   _UpgradePlatformToolsetFor_v110 = v141
+                   _UpgradePlatformToolsetFor_v120 = v141
+                   _UpgradePlatformToolsetFor_v140 = v141
+                   _UpgradePlatformToolsetFor_v141 = v141
+                   _UpgradePlatformToolsetFor_v141_xp = v141_xp
+                   _UpgradePlatformToolsetFor_v90 = v141
+                   _VC_Target_Library_Platform = Desktop
+                   _VC_x64_ToolsInstalled = true
+                   _VCToolsVersionProps = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\Build\Microsoft.VCToolsVersion.default.props
+                   AddAdditionalExplicitAssemblyReferences = true
+                   AddAppConfigToBuildOutputs = true
+                   AdditionalExplicitAssemblyReferences = System.Core;
+                   AfterBuildCompileTargets = 
+                         ;
+                         AfterBuildCompileEvent;
+                       
+                   AfterBuildGenerateSourcesTargets = 
+                         
+                         ;
+                         AfterBuildGenerateSources;
+                       ;
+                         AfterBuildGenerateSourcesEvent;
+                       
+                   AfterBuildLinkTargets = 
+                         ;
+                         CreateSatelliteAssemblies;
+                         _Appverifier;
+                         _Deploy;
+                         PrepareForRun;
+                         PostBuildEvent;
+                       
+                   AfterClCompileTargets = 
+                         ;
+                         AfterClCompile;
+                       
+                   AfterImpLibTargets = 
+                         ;
+                         AfterImpLib;
+                       
+                   AfterLibTargets = 
+                         ;
+                         AfterLib;
+                       
+                   AfterLinkTargets = 
+                         ;
+                         AfterLink;
+                       
+                   AfterManifestTargets = 
+                         ;
+                         AfterManifest;
+                       
+                   AfterMidlTargets = 
+                         ;
+                         AfterMidl;
+                       
+                   AfterResourceCompileTargets = 
+                         ;
+                         AfterResourceCompile;
+                       
+                   AllowedReferenceAssemblyFileExtensions = 
+                         .winmd;
+                         .dll;
+                         .exe
+                       
+                   AllowedReferenceRelatedFileExtensions = 
+                         .pdb;
+                         .xml;
+                         .pri;
+                         .dll.config;
+                         .exe.config
+                       
+                   AllowLocalNetworkLoopback = true
+                   AllProjectOutputGroupsDependsOn = 
+                         ;
+                         BuiltProjectOutputGroup;
+                         DebugSymbolsProjectOutputGroup;
+                         DocumentationProjectOutputGroup;
+                         SatelliteDllsProjectOutputGroup;
+                         SourceFilesProjectOutputGroup;
+                         ContentFilesProjectOutputGroup;
+                         SGenFilesOutputGroup
+                       
+                   ALLUSERSPROFILE = C:\ProgramData
+                   AlwaysCompileMarkupFilesInSeparateDomain = true
+                   AndroidTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\MDD\Android\V150\
+                   APPDATA = C:\Users\aky99\AppData\Roaming
+                   AppxManifestMetadataClHostArchDir = HostX86
+                   AppxManifestMetadataClTargetArchDir = x86
+                   AssemblyFoldersConfigFile = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\AssemblyFolders.config
+                   AssemblyFoldersConfigFileSearchPath = {AssemblyFoldersFromConfig:C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\AssemblyFolders.config,v4.0};
+                   AssemblyFoldersSuffix = AssemblyFoldersEx
+                   AssemblyName = BoardGame
+                   AssemblySearchPaths = 
+                         {CandidateAssemblyFiles};
+                         C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\x86;;
+                         {HintPathFromItem};
+                         {TargetFrameworkDirectory};
+                         {AssemblyFoldersFromConfig:C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\AssemblyFolders.config,v4.0};
+                         {Registry:Software\Microsoft\.NETFramework,v4.0,AssemblyFoldersEx};
+                         {AssemblyFolders};
+                         {GAC};
+                         {RawFileName};
+                         E:\Work\coding\c++\BoardGame\Release\
+                       
+                   AssignTargetPathsDependsOn = 
+                   Attach = false
+                   AutoUnifyAssemblyReferences = false
+                   AvailablePlatforms = Any CPU,x86,x64
+                   BaseIntermediateOutputPath = obj\
+                   BaseNuGetRuntimeIdentifier = win
+                   BeforeBuildCompileTargets = 
+                         ;
+                       
+                   BeforeBuildGenerateSourcesTargets = 
+                         
+                         ;
+                         BeforeBuildGenerateSources;
+                       ;
+                       
+                   BeforeClCompileTargets = 
+                         ;
+                         BeforeClCompile;
+                       
+                   BeforeImpLibTargets = 
+                         ;
+                         BeforeImpLib;
+                       
+                   BeforeLibTargets = 
+                         ;
+                         BeforeLib;
+                       
+                   BeforeLinkTargets = 
+                         ;
+                         BeforeLink;
+                       
+                   BeforeManifestTargets = 
+                         ;
+                         BeforeManifest;
+                       
+                   BeforeMidlTargets = 
+                         ;
+                         BeforeMidl;
+                       
+                   BeforeResourceCompileTargets = 
+                         ;
+                         BeforeResourceCompile;
+                       
+                   BuildCompileAction = _BuildCompileAction
+                   BuildCompileTargets = 
+                         ;
+                         _ClCompile;
+                         _ResGen;
+                         _ResourceCompile;
+                         
+                         ;
+                         _ImpLib;
+                         _Lib;
+                       ;
+                       
+                   BuildDependsOn = SetTelemetryEnvironmentVariables;
+                         _PrepareForBuild;
+                         
+                         ResolveReferences;
+                         PrepareForBuild;
+                         InitializeBuildStatus;
+                         BuildGenerateSources;
+                         BuildCompile;
+                         BuildLink;
+                       ;
+                         AfterBuild;
+                         FinalizeBuildStatus;
+                       
+                   BuildGenerateSourcesAction = _BuildGenerateSourcesAction
+                   BuildGenerateSourcesTargets = 
+                         ;
+                         PreBuildEvent;
+                         _Xsd;
+                         _Midl;
+                       
+                   BuildingInsideVisualStudio = true
+                   BuildingProject = true
+                   BuildInParallel = true
+                   BuildLibTargets = 
+                         ;
+                         _ImpLib;
+                         _Lib;
+                       
+                   BuildLinkAction = _BuildLinkAction
+                   BuildLinkTargets = 
+                         ;
+                         ComputeLegacyManifestEmbedding;
+                         _Link;
+                         _ALink;
+                         _Manifest;
+                         RegisterOutput;
+                         _XdcMake;
+                         _BscMake;
+                       
+                   BuildProjectReferences = true
+                   BuildSteps = 
+                         ResolveReferences;
+                         PrepareForBuild;
+                         InitializeBuildStatus;
+                         BuildGenerateSources;
+                         BuildCompile;
+                         BuildLink;
+                       
+                   BuildSystem = MSBuild
+                   BuildTaskAssembly = PresentationBuildTasks, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+                   BuiltProjectOutputGroupDependenciesDependsOn = 
+                         ;
+                         
+                         ;
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         AssignTargetPaths;
+                         ResolveReferences
+                       
+                       
+                   BuiltProjectOutputGroupDependsOn = PrepareForBuild
+                   CAExcludePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\include;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\cppwinrt;Include\um;
+                   CGAL_DIR = C:\Program Files\CGAL-4.13
+                   CharacterSet = Unicode
+                   CleanDependsOn = 
+                         
+                         _PrepareForClean;
+                         
+                         
+                         BeforeClean;
+                         UnmanagedUnregistration;
+                         CoreClean;
+                         CleanReferencedProjects;
+                         CleanPublishFolder;
+                         AfterClean
+                       ;
+                         EntityClean;
+                       ;
+                       ;
+                         CppClean
+                       
+                   CleanFile = BoardGame.vcxproj.FileListAbsolute.txt
+                   CLRSupport = false
+                   ClYieldDuringToolExecution = true
+                   CodeAnalysisApplyLogFileXsl = false
+                   CodeAnalysisFailOnMissingRules = false
+                   CodeAnalysisForceOutput = true
+                   CodeAnalysisGenerateSuccessFile = true
+                   CodeAnalysisIgnoreGeneratedCode = true
+                   CodeAnalysisIgnoreInvalidTargets = true
+                   CodeAnalysisIgnoreMissingIndirectReferences = false
+                   CodeAnalysisInputAssembly = E:\Work\coding\c++\BoardGame\Release\BoardGame.exe
+                   CodeAnalysisLogFile = E:\Work\coding\c++\BoardGame\Release\BoardGame.exe.CodeAnalysisLog.xml
+                   CodeAnalysisModuleSuppressionsFile = GlobalSuppressions.cpp
+                   CodeAnalysisOutputToConsole = false
+                   CodeAnalysisOverrideRuleVisibilities = false
+                   CodeAnalysisPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Team Tools\Static Analysis Tools\FxCop\
+                   CodeAnalysisQuiet = false
+                   CodeAnalysisRuleDirectories = ;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Team Tools\Static Analysis Tools\FxCop\\Rules
+                   CodeAnalysisRuleSet = NativeRecommendedRules.ruleset
+                   CodeAnalysisRuleSetDirectories = ;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Team Tools\Static Analysis Tools\\Rule Sets
+                   CodeAnalysisSaveMessagesToReport = Active
+                   CodeAnalysisSearchGlobalAssemblyCache = true
+                   CodeAnalysisStaticAnalysisDirectory = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Team Tools\Static Analysis Tools\
+                   CodeAnalysisSucceededFile = E:\Work\coding\c++\BoardGame\Release\BoardGame.exe.lastcodeanalysissucceeded
+                   CodeAnalysisSummary = false
+                   CodeAnalysisTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\v15.0\CodeAnalysis\Microsoft.CodeAnalysis.targets
+                   CodeAnalysisTimeout = 120
+                   CodeAnalysisTreatWarningsAsErrors = false
+                   CodeAnalysisUpdateProject = false
+                   CodeAnalysisUseTypeNameInSuppression = true
+                   CodeAnalysisVerbose = false
+                   COMMANDER_DRIVE = C:
+                   COMMANDER_EXE = C:\Program Files\totalcmd\TOTALCMD64.EXE
+                   COMMANDER_INI = C:\Users\aky99\AppData\Roaming\GHISLER\wincmd.ini
+                   COMMANDER_INSTANCE = 1
+                   COMMANDER_PATH = C:\Program Files\totalcmd
+                   CommonBuildOnlyTargets = 
+                         PrepareForBuild;
+                         ResolveReferences;
+                       
+                   CommonOutputGroupsDependsOn = 
+                         ;
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         AssignTargetPaths;
+                         ResolveReferences
+                       
+                   CommonProgramFiles = C:\Program Files (x86)\Common Files
+                   CommonProgramW6432 = C:\Program Files\Common Files
+                   CommonTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets
+                   CommonXamlResourcesDirectory = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\en-US\
+                   CompileDependsOn = 
+                           
+                         ResolveReferences;
+                         ResolveKeySource;
+                         SetWin32ManifestProperties;
+                         FindReferenceAssembliesForReferences;
+                         _GenerateCompileInputs;
+                         BeforeCompile;
+                         _TimeStampBeforeCompile;
+                         _GenerateCompileDependencyCache;
+                         CoreCompile;
+                         _TimeStampAfterCompile;
+                         AfterCompile;
+                       ;
+                           _AfterCompileWinFXInternal
+                       
+                   CompileLicxFilesDependsOn = 
+                   CompileTargetNameForTemporaryAssembly = CompileTemporaryAssembly
+                   ComputeCompileInputsTargets = 
+                         
+                         
+                         ;
+                         ComputeMIDLGeneratedCompileInputs;
+                       ;
+                         ComputeCLInputPDBName;
+                         ComputeReferenceCLInput;
+                         WarnCompileDuplicatedFilename
+                       ;
+                         FixupCLCompileOptions;
+                       
+                   ComputeImpLibInputsTargets = 
+                           
+                         
+                         
+                         
+                         ;
+                         ComputeRCGeneratedLibInputs;
+                       ;
+                         ComputeRCGeneratedImpLibInputs;
+                       ;
+                         ComputeCustomBuildOutput;
+                       ;
+                         ComputeCLGeneratedImpLibInputs;
+                       ;
+                           ComputeImpLibInputsFromProject;
+                         
+                   ComputeIntermediateSatelliteAssembliesDependsOn = 
+                         CreateManifestResourceNames
+                       
+                   ComputeLibInputsTargets = 
+                         ComputeLibAdditionalOptions;
+                         
+                         
+                           
+                         
+                         
+                         ;
+                         ComputeRCGeneratedLibInputs;
+                       ;
+                         ComputeCustomBuildOutput;
+                       ;
+                         ComputeCLGeneratedLibInputs;
+                       ;
+                           ComputeLibInputsFromProject;
+                         ;
+                         ComputeReferenceLibInputs;
+                       
+                       
+                   ComputeLinkInputsTargets = 
+                         
+                           
+                         
+                         
+                         
+                         ;
+                         ComputeRCGeneratedLinkInputs;
+                       ;
+                         ComputeManifestGeneratedLinkerInputs;
+                       ;
+                         ComputeCustomBuildOutput;
+                       ;
+                         ComputeCLGeneratedLinkInputs;
+                       ;
+                           ComputeLinkInputsFromProject;
+                         ;
+                         ComputeReferenceLinkInputs;
+                       
+                   ComputeManifestInputsTargets = 
+                         ;
+                         ComputeManifestInputsTargets;
+                       
+                   COMPUTERNAME = DRAGOSTEJ-PC
+                   ComReferenceExecuteAsTool = false
+                   ComReferenceNoClassMembers = false
+                   ComSpec = C:\WINDOWS\system32\cmd.exe
+                   Configuration = Release
+                   ConfigurationName = Release
+                   ConfigurationType = Application
+                   ConsiderPlatformAsProcessorArchitecture = true
+                   ContentFilesProjectOutputGroupDependsOn = PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc;_CreateCopyFileItems;
+                   ContinueOnError = false
+                   CopyFileAfterTargets = PreBuildEvent
+                   CopyFileBeforeTargets = Midl
+                   CopyNuGetImplementations = true
+                   CoreBuildDependsOn = 
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         PreBuildEvent;
+                         ResolveReferences;
+                         PrepareResources;
+                         ResolveKeySource;
+                         Compile;
+                         ExportWindowsMDFile;
+                         UnmanagedUnregistration;
+                         GenerateSerializationAssemblies;
+                         CreateSatelliteAssemblies;
+                         GenerateManifests;
+                         GetTargetPath;
+                         PrepareForRun;
+                         UnmanagedRegistration;
+                         IncrementalClean;
+                         PostBuildEvent
+                       
+                   CoreCleanDependsOn = 
+                   CoreCompileDependsOn = 
+                           DesignTimeXamlMarkupCompilation;
+                           
+                             DesignTimeMarkupCompilation;
+                             
+                         
+                       
+                   CoreCppCleanDependsOn = 
+                   CoreResGenDependsOn = FindReferenceAssembliesForReferences
+                   CppCleanDependsOn = 
+                         BeforeCppClean;
+                         ;
+                         CoreCppClean;
+                         AfterCppClean;
+                       ;PGInstrumentedClean
+                   CppCleanLogFile = BoardGame.Build.CppClean.log
+                   CppWinRT_IncludePath = C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\cppwinrt
+                   CreateCustomManifestResourceNamesDependsOn = 
+                   CreateHardLinksForCopyAdditionalFilesIfPossible = false
+                   CreateManifestResourceNamesDependsOn = 
+                   CreateSatelliteAssembliesDependsOn = 
+                         _GenerateSatelliteAssemblyInputs;
+                         ComputeIntermediateSatelliteAssemblies;
+                         GenerateSatelliteAssemblies
+                       
+                   CreateSymbolicLinksForCopyAdditionalFilesIfPossible = false
+                   CRTDefinitionalFile = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\VCProjectDefault\Microsoft.AppX.VCFrameworkReferences.xml
+                   CrtSDKReferenceInclude = Microsoft.VCLibs, Version=14.0
+                   CrtSDKReferenceVersion = 14.0
+                   CUDA_PATH = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2
+                   CUDA_PATH_V10_2 = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2
+                   CurrentSolutionConfigurationContents = <SolutionConfiguration>
+                   <ProjectConfiguration Project="{fae39b5e-0275-4de7-ab0a-574b21eb05f2}" AbsolutePath="e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj">Release|Win32</ProjectConfiguration>
+                   </SolutionConfiguration>
+                   CustomAfterMicrosoftCommonProps = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\v15.0\Custom.After.Microsoft.Common.props
+                   CustomAfterMicrosoftCommonTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\v15.0\Custom.After.Microsoft.Common.targets
+                   CustomBeforeMicrosoftCommonProps = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\v15.0\Custom.Before.Microsoft.Common.props
+                   CustomBeforeMicrosoftCommonTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\v15.0\Custom.Before.Microsoft.Common.targets
+                   CustomBuildAfterTargets = BscMake
+                   CustomBuildBeforeTargets = PostBuildEvent
+                   CustomBuildToolAfterTargets = PreBuildEvent
+                   CustomBuildToolBeforeTargets = Midl
+                   DebugCppRuntimeFilesPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\redist\x86
+                   DebuggerFlavor = WindowsLocalDebugger
+                   DebuggerLaunchApplication = true
+                   DebuggerRequireAuthentication = true
+                   DebuggerType = NativeOnly
+                   DebugSymbolsProjectOutputGroupDependenciesDependsOn = 
+                         ;
+                         
+                         ;
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         AssignTargetPaths;
+                         ResolveReferences
+                       
+                       
+                   DebugSymbolsProjectOutputGroupDependsOn = 
+                   DefaultLanguageSourceExtension = .cpp
+                   DefaultPlatformToolset = v141
+                   DefaultToolArchitecture = Native32Bit
+                   DefaultWindowsSDKVersion = 8.1
+                   DefineCommonReferenceSchemas = 
+                   DefineExplicitDefaults = true
+                   DelayImplib = Delayimp.lib
+                   DelaySign = 
+                   DeploymentType = Installed
+                   DesignTimeBuildInitTargets = _PrepareForReferenceResolution;;InitGetClCommandLines;ResolveReferences;FixupReferences
+                   DesignTimeIntermediateOutputPath = Release\InProcessTempFiles\
+                   DesignTimeResolveAssemblyReferencesDependsOn = 
+                         GetFrameworkPaths;
+                         GetReferenceAssemblyPaths;
+                         ResolveReferences
+                       
+                   DetermineProjectTypeTargets = _PrepareForReferenceResolution;
+                   DevEnvDir = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\
+                   DocumentationProjectOutputGroupDependenciesDependsOn = 
+                         ;
+                         
+                         ;
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         AssignTargetPaths;
+                         ResolveReferences
+                       
+                       
+                   DocumentationProjectOutputGroupDependsOn = ResolvedXDCMake;ComputeCLCompileGeneratedXDCFiles
+                   DocumentLibraryDependencies = true
+                   DotNetSdk_IncludePath = Include\um
+                   DotNetSdk_LibraryPath = lib\um
+                   DotNetSdk_LibraryPath_arm = lib\um\arm
+                   DotNetSdk_LibraryPath_arm64 = lib\um\arm64
+                   DotNetSdk_LibraryPath_x64 = lib\um\x64
+                   DotNetSdk_LibraryPath_x86 = lib\um\x86
+                   DotNetSdkRoot = 
+                   DriverData = C:\Windows\System32\Drivers\DriverData
+                   EmbeddedWin32Manifest = 
+                   EmbedManifest = true
+                   EmbedManifestBy = MT
+                   EnableManagedIncrementalBuild = false
+                   EntityDeployDependsOn = 
+                   EntityDeployIntermediateResourcePath = Release\edmxResourcesToEmbed\
+                   EspXtensions = CppCoreCheck.dll;
+                   ExcludePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\cppwinrt;Include\um;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\lib\x86;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x86;;;C:\WINDOWS
+                   ExecutablePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;C:\WINDOWS\SysWow64;;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\ImageMagick-7.0.8-Q16;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;c:\Program Files\boost_1_63_0\lib32-msvc-14.0;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\CMake\bin;C:\Program Files\Git\cmd;c:\Program Files\CGAL-4.13\auxiliary\gmp\lib;C:\Program Files\CGAL-4.13\build\bin;e:\Programs\opencv\build\x86\vc14\bin\;C:\Program Files\MATLAB\R2018b\runtime\win64;C:\Program Files\MATLAB\R2018b\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\aky99\AppData\Local\Microsoft\WindowsApps;E:\Programs\texlive\2019\bin\win32;;
+                   ExpandSDKAllowedReferenceExtensions = 
+                         .winmd;
+                         .dll
+                       
+                   ExpandSDKReferencesDependsOn = 
+                         ResolveSDKReferences
+                       
+                   ExtensionsToDeleteOnClean = *.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi;E:\Work\coding\c++\BoardGame\Release\BoardGame.exe.manifest;E:\Work\coding\c++\BoardGame\Release\BoardGame.tlb;E:\Work\coding\c++\BoardGame\Release\BoardGame.pdb;E:\Work\coding\c++\BoardGame\Release\BoardGame.exe;E:\Work\coding\c++\BoardGame\Release\BoardGame.bsc;E:\Work\coding\c++\BoardGame\Release\BoardGame.ilk;E:\Work\coding\c++\BoardGame\Release\BoardGame.exe.intermediate.manifest
+                   FindInvalidProjectReferencesDependsOn = 
+                         GetReferenceTargetPlatformMonikers
+                       
+                   Framework20Dir = @(_TargetFramework20DirectoryItem)
+                   Framework30Dir = @(_TargetFramework30DirectoryItem)
+                   Framework35Dir = @(_TargetFramework35DirectoryItem)
+                   Framework40Dir = @(_TargetFramework40DirectoryItem)
+                   FrameworkDir = C:\Windows\Microsoft.NET\Framework\
+                   FrameworkDir_110 = C:\Windows\Microsoft.NET\Framework\
+                   FrameworkPathOverride = C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0
+                   FrameworkRegistryBase = Software\Microsoft\.NETFramework
+                   FrameworkSdkDir = C:\Program Files (x86)\Windows Kits\10\
+                   FrameworkSDKRoot = 
+                   FrameworkVersion = v4.6
+                   FullReferenceAssemblyNames = Full
+                   FxCompileAfterTargets = CustomBuild
+                   FxCompileBeforeTargets = Midl
+                   GenerateBindingRedirectsOutputType = true
+                   GenerateClickOnceManifests = 
+                   GeneratedFileExtension = .g.cpp
+                   GenerateManifest = true
+                   GenerateManifestsDependsOn = 
+                         SetWin32ManifestProperties;
+                         GenerateApplicationManifest;
+                         GenerateDeploymentManifest
+                       
+                   GenerateTargetFrameworkAttribute = false
+                   GetCopyToOutputDirectoryItemsDependsOn = 
+                         AssignTargetPaths;
+                         _SplitProjectReferencesByFileExistence;
+                         _GetProjectReferenceTargetFrameworkProperties
+                       
+                   GetFrameworkPathsDependsOn = 
+                   GetReferenceAssemblyPathsDependsOn = _PrepareForReferenceResolution;
+                           ;
+                           GetWinFXPath
+                       
+                   GetTargetPathDependsOn = _PrepareForReferenceResolution;GetResolvedWinMD;
+                   GetTargetPathWithTargetPlatformMonikerDependsOn = 
+                   GPURefDebuggerBreakOnAllThreads = GPURefBreakOncePerWarp
+                   HideWarningsAndErrors = false
+                   HighEntropyVA = false
+                   HOMEDRIVE = C:
+                   HOMEPATH = \Users\aky99
+                   HostInBrowser = false
+                   IgnoreImportLibrary = false
+                   ImplicitlyExpandDesignTimeFacadesDependsOn = 
+                         ;
+                         GetReferenceAssemblyPaths
+                       
+                   ImportByWildcardAfterMicrosoftCommonProps = true
+                   ImportByWildcardAfterMicrosoftCommonTargets = true
+                   ImportByWildcardAfterMicrosoftNetFrameworkProps = true
+                   ImportByWildcardAfterMicrosoftNetFrameworkTargets = true
+                   ImportByWildcardBeforeMicrosoftCommonProps = true
+                   ImportByWildcardBeforeMicrosoftCommonTargets = true
+                   ImportByWildcardBeforeMicrosoftNetFrameworkProps = true
+                   ImportByWildcardBeforeMicrosoftNetFrameworkTargets = true
+                   ImportDirectoryBuildProps = true
+                   ImportDirectoryBuildTargets = true
+                   ImportProjectExtensionProps = true
+                   ImportProjectExtensionTargets = true
+                   ImportUserLocationsByWildcardAfterMicrosoftCommonProps = true
+                   ImportUserLocationsByWildcardAfterMicrosoftCommonTargets = true
+                   ImportUserLocationsByWildcardAfterMicrosoftNetFrameworkProps = true
+                   ImportUserLocationsByWildcardAfterMicrosoftNetFrameworkTargets = true
+                   ImportUserLocationsByWildcardBeforeMicrosoftCommonProps = true
+                   ImportUserLocationsByWildcardBeforeMicrosoftCommonTargets = true
+                   ImportUserLocationsByWildcardBeforeMicrosoftNetFrameworkProps = true
+                   ImportUserLocationsByWildcardBeforeMicrosoftNetFrameworkTargets = true
+                   ImportXamlTargets = true
+                   IncludeFrameworkReferencesFromNuGet = true
+                   IncludePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\cppwinrt;Include\um;
+                   IncludeVersionInInteropName = true
+                   IntDir = Release\
+                   IntermediateOutputPath = Release\
+                   InteropOutputPath = Interop\
+                   iOSTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\MDD\iOS\V150\
+                   IsApplication = true
+                   IsRestoreTargetsFileLoaded = true
+                   Keyword = Win32Proj
+                   KIT_SHARED_IncludePath = C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared
+                   LangID = 1033
+                   LangName = en-US
+                   Language = C++
+                   LastBuildState = Release\BoardGame.tlog\BoardGame.lastbuildstate
+                   LastBuildUnsuccessful = Release\BoardGame.tlog\unsuccessfulbuild
+                   LibraryPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\lib\x86;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x86;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x86;lib\um\x86;;Lib\um\x86
+                   LibraryWPath = C:\Program Files (x86)\Windows Kits\10\References;
+                   LinkCompiled = true
+                   LinkIncremental = false
+                   LoadTimeSensitiveProperties = 
+                         ;
+                       
+                   LoadTimeSensitiveTargets = 
+                         ;
+                         XamlMarkupCompilePass1;
+                       
+                   LOCALAPPDATA = C:\Users\aky99\AppData\Local
+                   LocalDebuggerAttach = False
+                   LocalDebuggerCommand = E:\Work\coding\c++\BoardGame\Release\BoardGame.exe
+                   LocalDebuggerCommandArguments = 30
+                   LocalDebuggerDebuggerType = Auto
+                   LocalDebuggerMergeEnvironment = true
+                   LocalDebuggerSQLDebugging = False
+                   LocalDebuggerWorkingDirectory = e:\Work\coding\c++\BoardGame\BoardGame\
+                   LocalGPUDebuggerTargetType = {F4453496-1DB8-47F8-A7D5-31EBDDC2EC96}
+                   LocalizationDirectivesToLocFile = None
+                   LOGONSERVER = \\DRAGOSTEJ-PC
+                   ManagedAssembly = false
+                   ManagedExpressionEvaluatorRegKey = 
+                   ManagedIncrementalBuildProcessDependencyGraphAfterTarget = 
+                         ClCompile
+                       
+                   ManagedIncrementalBuildProcessDependencyGraphBeforeTarget = 
+                         ClCompile
+                       
+                   MarkupCompilePass2ForMainAssemblyDependsOn = 
+                                        GenerateTemporaryTargetAssembly;
+                                        MarkupCompilePass2;
+                                        AfterMarkupCompilePass2;
+                                        CleanupTemporaryTargetAssembly
+                          
+                   MaxTargetPath = 100
+                   MetagenInputTarget = Link
+                   MetaGenTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\\Microsoft.MetaGen.targets
+                   MicrosoftCommonPropsHasBeenImported = true
+                   MidlYieldDuringToolExecution = true
+                   MpiDebuggerCleanupDeployment = True
+                   MpiDebuggerDebuggerType = Auto
+                   MpiDebuggerDeployCommonRuntime = True
+                   MpiDebuggerNetworkSecurityMode = AnyAddress
+                   MpiDebuggerSchedulerNode = localhost/1
+                   MpiDebuggerSchedulerTimeout = 5000
+                   MsAppxPackageTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\v15.0\AppxPackage\Microsoft.AppXPackage.Targets
+                   MSBuild_ExecutablePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\
+                   MSBuildAllProjects = ;e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.targets;e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.NETFramework.CurrentVersion.props;e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets;e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.NETFramework.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\NuGet\15.0\Microsoft.NuGet.targets
+                   MSBuildAssemblyVersion = 15.0
+                   MSBuildBinPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin
+                   MSBuildExtensionsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild
+                   MSBuildExtensionsPath32 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild
+                   MSBuildExtensionsPath64 = C:\Program Files\MSBuild
+                   MSBuildFrameworkToolsPath = C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\
+                   MSBuildFrameworkToolsPath32 = C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\
+                   MSBuildFrameworkToolsPath64 = C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\
+                   MSBuildFrameworkToolsRoot = C:\WINDOWS\Microsoft.NET\Framework\
+                   MSBuildLoadMicrosoftTargetsReadOnly = true
+                   MSBuildNodeCount = 8
+                   MSBuildProgramFiles32 = C:\Program Files (x86)
+                   MSBuildProjectDefaultTargets = Build
+                   MSBuildProjectDirectory = e:\Work\coding\c++\BoardGame\BoardGame
+                   MSBuildProjectDirectoryNoRoot = Work\coding\c++\BoardGame\BoardGame
+                   MSBuildProjectExtension = .vcxproj
+                   MSBuildProjectExtensionsPath = e:\Work\coding\c++\BoardGame\BoardGame\obj\
+                   MSBuildProjectFile = BoardGame.vcxproj
+                   MSBuildProjectFullPath = e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj
+                   MSBuildProjectName = BoardGame
+                   MSBuildRuntimeType = Full
+                   MSBuildRuntimeVersion = 4.0.30319
+                   MSBuildSDKsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Sdks
+                   MSBuildStartupDirectory = e:\Work\coding\c++\BoardGame
+                   MSBuildToolsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin
+                   MSBuildToolsPath32 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin
+                   MSBuildToolsPath64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\amd64
+                   MSBuildToolsRoot = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild
+                   MSBuildToolsVersion = 15.0
+                   MSBuildUserExtensionsPath = C:\Users\aky99\AppData\Local\Microsoft\MSBuild
+                   MSBuildVersion = 15.9.21
+                   MsTestToolsTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\v15.0\TeamTest\Microsoft.TeamTest.targets
+                   MultiToolTask = false
+                   NetFrameworkPropsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.NETFramework.CurrentVersion.props
+                   NetFrameworkTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.NETFramework.CurrentVersion.targets
+                   NETFXKitsDir = 
+                   NETFXSDKDir = 
+                   NuGetProps = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\NuGet\15.0\Microsoft.NuGet.props
+                   NuGetRestoreTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\..\..\..\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets
+                   NuGetRuntimeIdentifier = win-x86
+                   NuGetTargetFrameworkMonikerToInject = .NETCore,Version=v5.0
+                   NuGetTargetMoniker = .NETFramework,Version=v4.0
+                   NuGetTargetMonikerToInject = .NETCore,Version=v5.0
+                   NuGetTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\NuGet\15.0\Microsoft.NuGet.targets
+                   NUMBER_OF_PROCESSORS = 8
+                   NVCUDASAMPLES_ROOT = C:\ProgramData\NVIDIA Corporation\CUDA Samples\v10.2
+                   NVCUDASAMPLES10_2_ROOT = C:\ProgramData\NVIDIA Corporation\CUDA Samples\v10.2
+                   NVTOOLSEXT_PATH = C:\Program Files\NVIDIA Corporation\NvToolsExt\
+                   OneDrive = C:\Users\aky99\OneDrive
+                   OneDriveConsumer = C:\Users\aky99\OneDrive
+                   OnlyReferenceAndBuildProjectsEnabledInSolutionConfiguration = true
+                   OPENCV_DIR = e:\Programs\opencv\build\x86\vc14\
+                   OS = Windows_NT
+                   OSVersion = 5.1.2600.0
+                   OutDir = E:\Work\coding\c++\BoardGame\Release\
+                   OutDirWasSpecified = false
+                   OutputPath = E:\Work\coding\c++\BoardGame\Release\
+                   OutputType = exe
+                   OverwriteReadOnlyFiles = false
+                   Path = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\ImageMagick-7.0.8-Q16;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;c:\Program Files\boost_1_63_0\lib32-msvc-14.0;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\CMake\bin;C:\Program Files\Git\cmd;c:\Program Files\CGAL-4.13\auxiliary\gmp\lib;C:\Program Files\CGAL-4.13\build\bin;e:\Programs\opencv\build\x86\vc14\bin\;C:\Program Files\MATLAB\R2018b\runtime\win64;C:\Program Files\MATLAB\R2018b\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\aky99\AppData\Local\Microsoft\WindowsApps;E:\Programs\texlive\2019\bin\win32;
+                   PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+                   PkgDefApplicationConfigFile = C:\Users\aky99\AppData\Local\Microsoft\VisualStudio\15.0_4f9cc132\devenv.exe.config
+                   Platform = Win32
+                   Platform_Actual = Win32
+                   PlatformArchitecture = 32
+                   PlatformName = Win32
+                   PlatformPropsFound = true
+                   PlatformShortName = x86
+                   PlatformTarget = x86
+                   PlatformTargetAsMSBuildArchitecture = x86
+                   PlatformTargetAsMSBuildArchitectureExplicitlySet = false
+                   PlatformTargetsFound = true
+                   PlatformToolset = v141
+                   PlatformToolsetVersion = 141
+                   PostBuildEventDependsOn = 
+                   PostBuildEventUseInBuild = true
+                   PreBuildEventDependsOn = 
+                   PreBuildEventUseInBuild = true
+                   Prefer32Bit = false
+                   PreferredToolArchitecture = x86
+                   PreLinkEventUseInBuild = true
+                   PrepareForBuildDependsOn = PlatformPrepareForBuild;_CheckWindowsSDKInstalled;GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables
+                   PrepareForRunDependsOn = 
+                         CopyFilesToOutputDirectory
+                       
+                   PrepareProjectReferencesDependsOn = 
+                         AssignProjectConfiguration;
+                         _SplitProjectReferencesByFileExistence;
+                         _GetProjectReferenceTargetFrameworkProperties
+                       
+                   PrepareResourceNamesDependsOn = 
+                                       AssignWinFXEmbeddedResource;
+                                       
+                         AssignTargetPaths;
+                         SplitResourcesByCulture;
+                         CreateManifestResourceNames;
+                         CreateCustomManifestResourceNames
+                       
+                         
+                   PrepareResourcesDependsOn = ResolveNuGetPackageAssets;
+                         XamlMarkupCompilePass1;
+                         XamlMarkupCompilePass2;
+                         
+                                   MarkupCompilePass1;
+                                   AfterMarkupCompilePass1;
+                                   MarkupCompilePass2ForMainAssembly;
+                                   FileClassification;
+                                   MainResourcesGeneration;
+                                   
+                         PrepareResourceNames;
+                         ResGen;
+                         CompileLicxFiles
+                       
+                          
+                       
+                   PROCESSOR_ARCHITECTURE = x86
+                   PROCESSOR_ARCHITEW6432 = AMD64
+                   PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+                   PROCESSOR_LEVEL = 6
+                   PROCESSOR_REVISION = 5e03
+                   ProcessorArchitecture = x86
+                   ProduceReferenceAssembly = false
+                   ProgramData = C:\ProgramData
+                   ProgramFiles = C:\Program Files (x86)
+                   ProgramW6432 = C:\Program Files
+                   ProjectDesignTimeAssemblyResolutionSearchPaths = 
+                         {CandidateAssemblyFiles};
+                         C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\x86;;
+                         {HintPathFromItem};
+                         {TargetFrameworkDirectory};
+                         {Registry:Software\Microsoft\.NETFramework,v4.0,AssemblyFoldersEx};
+                         {RawFileName};
+                         E:\Work\coding\c++\BoardGame\Release\
+                       
+                   ProjectDir = e:\Work\coding\c++\BoardGame\BoardGame\
+                   ProjectEvaluationFingerprint = Release|Win32|E:\Work\coding\c++\BoardGame\|
+                   ProjectExt = .vcxproj
+                   ProjectFileName = BoardGame.vcxproj
+                   ProjectFlavor = Client
+                   ProjectGuid = {FAE39B5E-0275-4DE7-AB0A-574B21EB05F2}
+                   ProjectLockFile = obj\project.assets.json
+                   ProjectName = BoardGame
+                   ProjectPath = e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj
+                   PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Intel\Wired Networking\
+                   PUBLIC = C:\Users\Public
+                   PublishableProject = true
+                   PublishBuildDependsOn = 
+                               BuildOnlySettings;
+                               PrepareForBuild;
+                               ResolveReferences;
+                               PrepareResources;
+                               ResolveKeySource;
+                               PrepareResourcesForSatelliteAssemblies;
+                               GenerateSerializationAssemblies;
+                               CreateSatelliteAssemblies;
+                           
+                   PublishDependsOn = 
+                         SetGenerateManifests;
+                         Build;
+                         PublishOnly
+                       
+                   PublishDir = E:\Work\coding\c++\BoardGame\Release\app.publish\
+                   PublishOnlyDependsOn = 
+                         SetGenerateManifests;
+                         PublishBuild;
+                         BeforePublish;
+                         GenerateManifests;
+                         CopyFilesToOutputDirectory;
+                         _CopyFilesToPublishFolder;
+                         _DeploymentGenerateBootstrapper;
+                         ResolveKeySource;
+                         _DeploymentSignClickOnceDeployment;
+                         AfterPublish
+                       
+                   RebuildDependsOn = SetTelemetryEnvironmentVariables;
+                         _PrepareForRebuild;
+                         
+                         BeforeRebuild;
+                         Clean;
+                         Build;
+                         AfterRebuild;
+                       ;
+                       
+                   ReferenceCopyLocalPathsOutputGroupDependsOn = 
+                         ;
+                         
+                         ;
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         AssignTargetPaths;
+                         ResolveReferences
+                       
+                       
+                   ReferencePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\x86;
+                   RemoteDebuggerAttach = False
+                   RemoteDebuggerConnection = RemoteWithAuthentication
+                   RemoteDebuggerDebuggerType = Auto
+                   RemoteDebuggerDeployDebugCppRuntime = true
+                   RemoteDebuggerServerName = DRAGOSTEJ-PC
+                   RemoteDebuggerSQLDebugging = False
+                   RemoteDebuggerWorkingDirectory = e:\Work\coding\c++\BoardGame\BoardGame\
+                   RemoteGPUDebuggerTargetType = {F4453496-1DB8-47F8-A7D5-31EBDDC2EC96}
+                   ReportingServicesTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\v15.0\ReportingServices\Microsoft.ReportingServices.targets
+                   RequiredBundles = Microsoft.VisualStudio.Component.VC.Tools.x86.x64;
+                   ResGenDependsOn = ResolveAssemblyReferences;SplitResourcesByCulture;BeforeResGen;CoreResGen;AfterResGen
+                   ResGenExecuteAsTool = false
+                   ResolveAssemblyReferencesDependsOn = _PrepareForReferenceResolution;
+                         ResolveProjectReferences;
+                         FindInvalidProjectReferences;
+                         GetFrameworkPaths;
+                         GetReferenceAssemblyPaths;
+                         PrepareForBuild;
+                         ResolveSDKReferences;
+                         ExpandSDKReferences;
+                       ;ResolveNuGetPackageAssets
+                   ResolveNuGetPackageAssetsDependsOn = ResolveProjectReferences
+                   ResolveNuGetPackages = true
+                   ResolveReferencesDependsOn = _PrepareForReferenceResolution;ComputeCrtSDKReference;
+                         
+                         
+                         BeforeResolveReferences;
+                         AssignProjectConfiguration;
+                         ResolveProjectReferences;
+                         FindInvalidProjectReferences;
+                         ResolveNativeReferences;
+                         ResolveAssemblyReferences;
+                         GenerateBindingRedirects;
+                         ResolveComReferences;
+                         AfterResolveReferences
+                       ;
+                         ImplicitlyExpandDesignTimeFacades
+                       ;
+                         ResolveTestReferences
+                       
+                   ResolveSDKReferencesDependsOn = _PrepareForReferenceResolution;ComputeCrtSDKReference;
+                         GetInstalledSDKLocations
+                       
+                   RestoreBuildInParallel = true
+                   RestoreContinueOnError = WarnAndContinue
+                   RestoreRecursive = true
+                   RestoreTaskAssemblyFile = NuGet.Build.Tasks.dll
+                   RestoreUseSkipNonexistentTargets = true
+                   RetargetAlwaysSupported = true
+                   RootNamespace = BoardGame
+                   RoslynTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Roslyn
+                   RunAfterInstall = true
+                   RunCodeAnalysisInputs = E:\Work\coding\c++\BoardGame\Release\BoardGame.exe
+                   RunCppAnalysis = false
+                   RunDependsOn = 
+                   RuntimeIdentifiers = win;win-x86;win-x64
+                   SatelliteDllsProjectOutputGroupDependenciesDependsOn = 
+                         ;
+                         
+                         ;
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         AssignTargetPaths;
+                         ResolveReferences
+                       
+                       
+                   SatelliteDllsProjectOutputGroupDependsOn = PrepareForBuild;PrepareResourceNames
+                   SDK35ToolsPath = 
+                   SDK40ToolsPath = 
+                   SDKDisplayName = Windows 10
+                   SDKExtensionDirectoryRoot = C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10;C:\Program Files (x86)\Windows Kits\10
+                   SDKIdentifier = Windows
+                   SDKRedistOutputGroupDependsOn = ResolveSDKReferences;ExpandSDKReferences
+                   SDKReferenceDirectoryRoot = C:\Users\aky99\AppData\Local\Microsoft SDKs;C:\Program Files (x86)\Microsoft SDKs
+                   SDKReferenceRegistryRoot = Software\Microsoft\Microsoft SDKs
+                   SDKVersion = 10.0
+                   SESSIONNAME = Console
+                   SGenFilesOutputGroupDependenciesDependsOn = 
+                         ;
+                         
+                         ;
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         AssignTargetPaths;
+                         ResolveReferences
+                       
+                       
+                   SGenFilesOutputGroupDependsOn = 
+                   SGenShouldGenerateSerializer = true
+                   SGenUseKeep = false
+                   SGenUseProxyTypes = true
+                   ShouldMarkCertainSDKReferencesAsRuntimeOnly = true
+                   SkipCopyBuildProduct = true
+                   SkipCopyUnchangedFiles = true
+                   SolutionDir = E:\Work\coding\c++\BoardGame\
+                   SolutionExt = .sln
+                   SolutionFileName = BoardGame.sln
+                   SolutionName = BoardGame
+                   SolutionPath = E:\Work\coding\c++\BoardGame\BoardGame.sln
+                   SourceControlInformationFeatureSupported = true
+                   SourceFilesProjectOutputGroupDependsOn = PrepareForBuild;AssignTargetPaths
+                   SourcePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\src\mfc;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\src\mfcm;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\src\atl;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\crt\src;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\src;;C:\Program Files (x86)\Windows Kits\10\Source\10.0.17763.0\ucrt;;;
+                   SpectreMitigation = false
+                   SQLDebugging = false
+                   SystemDrive = C:
+                   SystemRoot = C:\WINDOWS
+                   TargetCulture = *
+                   TargetDeployManifestFileName = BoardGame.application
+                   TargetDir = E:\Work\coding\c++\BoardGame\Release\
+                   TargetedFrameworkDir = @(_TargetedFrameworkDirectoryItem)
+                   TargetedRuntimeVersion = v4.0.30319
+                   TargetedSDKArchitecture = x86
+                   TargetedSDKConfiguration = Retail
+                   TargetExt = .exe
+                   TargetFileName = BoardGame.exe
+                   TargetFrameworkAsMSBuildRuntime = CLR4
+                   TargetFrameworkIdentifier = .NETFramework
+                   TargetFrameworkMoniker = .NETFramework,Version=v4.0
+                   TargetFrameworkMonikerAssemblyAttributesPath = C:\Users\aky99\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp
+                   TargetFrameworkMonikerDisplayName = .NET Framework 4
+                   TargetFrameworkSDKToolsDirectory = 
+                   TargetFrameworkVersion = v4.0
+                   TargetName = BoardGame
+                   TargetPath = E:\Work\coding\c++\BoardGame\Release\BoardGame.exe
+                   TargetPlatformDisplayName = Windows 10.0.17763.0
+                   TargetPlatformIdentifier = Windows
+                   TargetPlatformMinVersion = 
+                   TargetPlatformMoniker = Windows,Version=10.0.17763.0
+                   TargetPlatformRegistryBase = Software\Microsoft\Microsoft SDKs\Windows
+                   TargetPlatformSdkPath = 
+                   TargetPlatformVersion = 10.0.17763.0
+                   TargetPlatformWinMDLocation = C:\Program Files (x86)\Windows Kits\10\References
+                   TargetRuntime = Managed
+                   TargetUniversalCRTVersion = 10.0.17763.0
+                   TaskKeyToken = 31bf3856ad364e35
+                   TaskVersion = 4.0.0.0
+                   TEMP = C:\Users\aky99\AppData\Local\Temp
+                   TLogLocation = Release\BoardGame.tlog\
+                   TMP = C:\Users\aky99\AppData\Local\Temp
+                   ToolsetPropsFound = true
+                   ToolsetTargetsFound = true
+                   TrackFileAccess = true
+                   UCRTContentRoot = C:\Program Files (x86)\Windows Kits\10\
+                   UM_IncludePath = C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um
+                   UniversalCRT_IncludePath = C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt;
+                   UniversalCRT_LibraryPath_arm = C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\arm;
+                   UniversalCRT_LibraryPath_arm64 = C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\arm64;
+                   UniversalCRT_LibraryPath_x64 = C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x64;
+                   UniversalCRT_LibraryPath_x86 = C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x86;
+                   UniversalCRT_PropsPath = C:\Program Files (x86)\Windows Kits\10\\DesignTime\CommonConfiguration\Neutral\ucrt.props
+                   UniversalCRT_SourcePath = C:\Program Files (x86)\Windows Kits\10\Source\10.0.17763.0\ucrt;
+                   UniversalCRTSdkDir = C:\Program Files (x86)\Windows Kits\10\
+                   UniversalCRTSdkDir_10 = C:\Program Files (x86)\Windows Kits\10\
+                   UnmanagedRegistrationDependsOn = 
+                   UnmanagedUnregistrationDependsOn = 
+                   UpgradeSubsetToProfile = true
+                   UseCommonOutputDirectory = false
+                   UseDebugLibraries = false
+                   UseLegacyManagedDebugger = true
+                   UseOfATL = false
+                   UseOfMFC = false
+                   USERDOMAIN = DRAGOSTEJ-PC
+                   USERDOMAIN_ROAMINGPROFILE = DRAGOSTEJ-PC
+                   USERNAME = dragostej
+                   USERPROFILE = C:\Users\aky99
+                   UserRootDir = C:\Users\aky99\AppData\Local\Microsoft\MSBuild\v4.0
+                   UseSourcePath = true
+                   v141_Installed = true
+                   ValidateRuntimeIdentifierCompatibility = false
+                   VC_ATLMFC_IncludePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\include;
+                   VC_ATLMFC_SourcePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\src\mfc;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\src\mfcm;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\src\atl;
+                   VC_CRT_SourcePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\crt\src;
+                   VC_ExecutablePath_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\arm;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86
+                   VC_ExecutablePath_ARM64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\arm64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86
+                   VC_ExecutablePath_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86
+                   VC_ExecutablePath_x64_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX64\arm
+                   VC_ExecutablePath_x64_ARM64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX64\arm64
+                   VC_ExecutablePath_x64_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX64\x64
+                   VC_ExecutablePath_x64_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX64\x86
+                   VC_ExecutablePath_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86
+                   VC_ExecutablePath_x86_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\arm
+                   VC_ExecutablePath_x86_ARM64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\arm64
+                   VC_ExecutablePath_x86_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64
+                   VC_ExecutablePath_x86_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86
+                   VC_IFCPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\ifc\x86
+                   VC_IncludePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt;;
+                   VC_LibraryPath_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\ARM;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\ARM;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\lib\ARM;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\arm;;
+                   VC_LibraryPath_ARM64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\ARM64;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\ARM64;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\arm64;;
+                   VC_LibraryPath_ATL_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\ARM;
+                   VC_LibraryPath_ATL_ARM64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\ARM64;
+                   VC_LibraryPath_ATL_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\x64;
+                   VC_LibraryPath_ATL_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\x86;
+                   VC_LibraryPath_VC_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\ARM;
+                   VC_LibraryPath_VC_ARM_Desktop = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\ARM
+                   VC_LibraryPath_VC_ARM_OneCore = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\onecore\ARM
+                   VC_LibraryPath_VC_ARM_Store = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\ARM\store
+                   VC_LibraryPath_VC_ARM64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\ARM64;
+                   VC_LibraryPath_VC_ARM64_Desktop = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\ARM64
+                   VC_LibraryPath_VC_ARM64_OneCore = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\onecore\ARM64
+                   VC_LibraryPath_VC_ARM64_Store = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\ARM64\store
+                   VC_LibraryPath_VC_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\x64;
+                   VC_LibraryPath_VC_x64_Desktop = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\x64
+                   VC_LibraryPath_VC_x64_OneCore = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\onecore\x64
+                   VC_LibraryPath_VC_x64_Store = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\x64\store
+                   VC_LibraryPath_VC_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\x86;
+                   VC_LibraryPath_VC_x86_Desktop = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\x86
+                   VC_LibraryPath_VC_x86_OneCore = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\onecore\x86
+                   VC_LibraryPath_VC_x86_Store = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\x86\store
+                   VC_LibraryPath_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\lib\x64;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x64;;
+                   VC_LibraryPath_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\lib\x86;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x86;;
+                   VC_PGO_RunTime_Dir = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86
+                   VC_ReferencesPath_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\ARM;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\ARM
+                   VC_ReferencesPath_ARM64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\ARM64;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\ARM64
+                   VC_ReferencesPath_ATL_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\ARM;
+                   VC_ReferencesPath_ATL_ARM64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\ARM64;
+                   VC_ReferencesPath_ATL_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\x64;
+                   VC_ReferencesPath_ATL_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\x86;
+                   VC_ReferencesPath_VC_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\ARM
+                   VC_ReferencesPath_VC_ARM64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\ARM64
+                   VC_ReferencesPath_VC_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\x64
+                   VC_ReferencesPath_VC_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\x86
+                   VC_ReferencesPath_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\x64
+                   VC_ReferencesPath_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\lib\x86
+                   VC_SourcePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\src\mfc;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\src\mfcm;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\atlmfc\src\atl;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\crt\src;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\src;;C:\Program Files (x86)\Windows Kits\10\Source\10.0.17763.0\ucrt;;
+                   VC_VC_IncludePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include;
+                   VC_VS_IncludePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\include;
+                   VC_VS_LibraryPath_VC_VS_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\lib\ARM;
+                   VC_VS_LibraryPath_VC_VS_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\lib\x64;
+                   VC_VS_LibraryPath_VC_VS_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\lib\x86;
+                   VC_VS_SourcePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\src;
+                   VCCodeAnalysisUX = true
+                   VCIDEInstallDir = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\
+                   VCIDEInstallDir_150 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\
+                   VCInstallDir = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\
+                   VCInstallDir_150 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\
+                   VCLibPackagePath = C:\Users\aky99\AppData\Local\vcpkg\vcpkg.user
+                   VCProjectVersion = 15.0
+                   VCTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\
+                   VCTargetsPath10 = C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\
+                   VCTargetsPath11 = C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\
+                   VCTargetsPath12 = C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\
+                   VCTargetsPath14 = C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\
+                   VCTargetsPath15 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\
+                   VCTargetsPathActual = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\
+                   VCTargetsPathEffective = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\
+                   VCToolArchitecture = Native32Bit
+                   VCToolsetSupportsJustMyCode = true
+                   VCToolsInstallDir = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\
+                   VCToolsInstallDir_150 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\
+                   VCToolsRedistVersion = 14.16.27012
+                   VCToolsVersion = 14.16.27023
+                   Version = 1.0.0.0
+                   VisualStudioDir = C:\Users\aky99\Documents\Visual Studio 2017
+                   VisualStudioEdition = Microsoft Visual Studio Enterprise 2017
+                   VisualStudioVersion = 15.0
+                   VS_ExecutablePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;
+                   VSAPPIDDIR = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\
+                   VSAPPIDNAME = devenv.exe
+                   VSIDEResolvedNonMSBuildProjectOutputs = <VSIDEResolvedNonMSBuildProjectOutputs />
+                   VSInstallDir = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\
+                   VSInstallDir_150 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\
+                   VsInstallRoot = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise
+                   VSLANG = 1033
+                   VSSKUEDITION = Enterprise
+                   VSTEL_CurrentSolutionBuildID = 92131828
+                   VSTEL_SolutionSessionID = {D17AA819-A68E-4931-8EB6-C850D0845761}
+                   VSVersion = $(VisualStudioVersion)
+                   WDKBinRoot = C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0
+                   WebBrowserDebuggerDebuggerType = Auto
+                   WebReference_EnableLegacyEventingModel = false
+                   WebReference_EnableProperties = true
+                   WebReference_EnableSQLTypes = true
+                   WebServiceDebuggerDebuggerType = Auto
+                   WebServiceDebuggerSQLDebugging = False
+                   WholeProgramOptimization = true
+                   WholeProgramOptimizationAvailabilityInstrument = true
+                   WholeProgramOptimizationAvailabilityOptimize = true
+                   WholeProgramOptimizationAvailabilityTrue = true
+                   WholeProgramOptimizationAvailabilityUpdate = true
+                   windir = C:\WINDOWS
+                   WindowsAppContainer = false
+                   WindowsSDK_ExecutablePath = C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x86;
+                   WindowsSDK_ExecutablePath_arm = C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\arm;
+                   WindowsSDK_ExecutablePath_arm64 = C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\arm64;
+                   WindowsSDK_ExecutablePath_x64 = C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x64;
+                   WindowsSDK_ExecutablePath_x86 = C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x86;
+                   WindowsSDK_HasVersionedContent = true
+                   WindowsSDK_IncludePath = C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\cppwinrt;Include\um
+                   WindowsSDK_LibraryPath = C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um
+                   WindowsSDK_LibraryPath_arm = C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\arm;lib\um\arm;
+                   WindowsSDK_LibraryPath_arm64 = C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\arm64;lib\um\arm64;
+                   WindowsSDK_LibraryPath_x64 = C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x64;lib\um\x64;
+                   WindowsSDK_LibraryPath_x86 = C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x86;lib\um\x86;
+                   WindowsSDK_MetadataFoundationPath = C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\windows.foundation.foundationcontract\3.0.0.0
+                   WindowsSDK_MetadataPath = C:\Program Files (x86)\Windows Kits\10\References
+                   WindowsSDK_MetadataPathVersioned = C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0
+                   WindowsSDK_PlatformPath = C:\Program Files (x86)\Windows Kits\10\Platforms\UAP;
+                   WindowsSDK_SupportedAPIs_arm = C:\Program Files (x86)\Windows Kits\10\\App Certification Kit\SupportedAPIs-arm.xml
+                   WindowsSDK_SupportedAPIs_x64 = C:\Program Files (x86)\Windows Kits\10\\App Certification Kit\SupportedAPIs-x64.xml
+                   WindowsSDK_SupportedAPIs_x86 = C:\Program Files (x86)\Windows Kits\10\\App Certification Kit\SupportedAPIs-x86.xml
+                   WindowsSDK_UnionMetadataPath = C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0
+                   WindowsSDK80Path = 
+                   WindowsSdkDir = C:\Program Files (x86)\Windows Kits\10\
+                   WindowsSdkDir_10 = C:\Program Files (x86)\Windows Kits\10\
+                   WindowsSdkDir_81 = 
+                   WindowsSdkDir_81A = 
+                   WindowsSDKToolArchitecture = Native32Bit
+                   WindowsTargetPlatformVersion = 10.0.17763.0
+                   WinMDAssembly = false
+                   WinRT_IncludePath = C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\winrt
+                   WMSJSProject = WJProject
+                   WMSJSProjectDirectory = JavaScript
+                   XamlBuildTaskAssemblyName = XamlBuildTask, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+                   XamlBuildTaskLocation = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\amd64
+                   XamlBuildTaskPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\amd64
+                   XamlGenCodeFileNames = BoardGame.vcxproj.XamlGeneratedCodeFileListAbsolute.txt
+                   XamlGenMarkupFileNames = BoardGame.vcxproj.XamlGeneratedXamlFileListAbsolute.txt
+                   XamlPass2FlagFile = BoardGame.vcxproj.XamlPass2Flag.txt
+                   XamlRequiresCompilationPass2 = false
+                   XamlTemporaryAssemblyName = BoardGame
+                   YieldDuringToolExecution = true
+
+10:43:27.582     1>Building with tools version "15.0".
+                   Target "EnableIntermediateOutputPathMismatchWarning" skipped, due to false condition; ('$(RestoreProjectStyle)' == 'PackageReference') was evaluated as ('' == 'PackageReference').
+10:43:27.583     1>Target "_CheckForInvalidConfigurationAndPlatform: (TargetId:2)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" (target "_PrepareForClean" depends on it):
+                   Set Property: _InvalidConfigurationMessageText=The OutputPath property is not set for project 'BoardGame.vcxproj'.  Please check to make sure that you have specified a valid combination of Configuration and Platform for this project.  Configuration='Release'  Platform='Win32'.
+                   Set Property: _InvalidConfigurationMessageText=The OutputPath property is not set for project 'BoardGame.vcxproj'.  Please check to make sure that you have specified a valid combination of Configuration and Platform for this project.  Configuration='Release'  Platform='Win32'.  This error may also appear if some other project is trying to follow a project-to-project reference to this project, this project has been unloaded or is not included in the solution, and the referencing project does not build using the same or an equivalent Configuration or Platform.
+                   Task "Error" skipped, due to false condition; ( '$(_InvalidConfigurationError)' == 'true' ) was evaluated as ( '' == 'true' ).
+                   Task "Warning" skipped, due to false condition; ( '$(_InvalidConfigurationWarning)' == 'true' ) was evaluated as ( '' == 'true' ).
+                   Using "Message" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "Message" (TaskId:2)
+                     Task Parameter:Text=Configuration=Release (TaskId:2)
+                     Task Parameter:Importance=Low (TaskId:2)
+                     Configuration=Release (TaskId:2)
+                   Done executing task "Message". (TaskId:2)
+                   Task "Message" (TaskId:3)
+                     Task Parameter:Text=Platform=Win32 (TaskId:3)
+                     Task Parameter:Importance=Low (TaskId:3)
+                     Platform=Win32 (TaskId:3)
+                   Done executing task "Message". (TaskId:3)
+                   Task "Error" skipped, due to false condition; ('$(OutDir)' != '' and !HasTrailingSlash('$(OutDir)')) was evaluated as ('E:\Work\coding\c++\BoardGame\Release\' != '' and !HasTrailingSlash('E:\Work\coding\c++\BoardGame\Release\')).
+                   Task "Error" skipped, due to false condition; ('$(BaseIntermediateOutputPath)' != '' and !HasTrailingSlash('$(BaseIntermediateOutputPath)')) was evaluated as ('obj\' != '' and !HasTrailingSlash('obj\')).
+                   Task "Error" skipped, due to false condition; ('$(IntermediateOutputPath)' != '' and !HasTrailingSlash('$(IntermediateOutputPath)')) was evaluated as ('Release\' != '' and !HasTrailingSlash('Release\')).
+                   Task "Error" skipped, due to false condition; ( '$(_InitialMSBuildProjectExtensionsPath)' != '' And '$(MSBuildProjectExtensionsPath)' != '$(_InitialMSBuildProjectExtensionsPath)' ) was evaluated as ( 'e:\Work\coding\c++\BoardGame\BoardGame\obj\' != '' And 'e:\Work\coding\c++\BoardGame\BoardGame\obj\' != 'e:\Work\coding\c++\BoardGame\BoardGame\obj\' ).
+                   Task "Warning" skipped, due to false condition; ( '$(EnableBaseIntermediateOutputPathMismatchWarning)' == 'true' And '$(_InitialBaseIntermediateOutputPath)' != '$(BaseIntermediateOutputPath)' And '$(BaseIntermediateOutputPath)' != '$(MSBuildProjectExtensionsPath)' ) was evaluated as ( '' == 'true' And 'obj\' != 'obj\' And 'obj\' != 'e:\Work\coding\c++\BoardGame\BoardGame\obj\' ).
+10:43:27.602     1>Done building target "_CheckForInvalidConfigurationAndPlatform" in project "BoardGame.vcxproj".: (TargetId:2)
+10:43:27.602     1>Target "_PrepareForClean: (TargetId:3)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.BuildSteps.Targets" from project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" (target "Clean" depends on it):
+                   Set Property: BuildType=Clean
+                   Set Property: _BuildActionType=Clean
+                   Using "Delete" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "Delete" (TaskId:4)
+                     Task Parameter:Files=Release\BoardGame.tlog\BoardGame.lastbuildstate (TaskId:4)
+                     Deleting file "Release\BoardGame.tlog\BoardGame.lastbuildstate". (TaskId:4)
+                   Done executing task "Delete". (TaskId:4)
+10:43:27.606     1>Done building target "_PrepareForClean" in project "BoardGame.vcxproj".: (TargetId:3)
+10:43:27.606     1>Target "BeforeClean: (TargetId:4)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" (target "Clean" depends on it):
+10:43:27.606     1>Done building target "BeforeClean" in project "BoardGame.vcxproj".: (TargetId:4)
+                   Target "UnmanagedUnregistration" skipped, due to false condition; ((('$(_AssemblyTimestampBeforeCompile)' != '$(_AssemblyTimestampAfterCompile)' or '$(RegisterForComInterop)' != 'true' or '$(OutputType)' != 'library') or
+                                       ('$(_AssemblyTimestampBeforeCompile)' == '')) and
+                                      Exists('@(_UnmanagedRegistrationCache)')) was evaluated as ((('' != '' or '' != 'true' or 'exe' != 'library') or
+                                       ('' == '')) and
+                                      Exists('obj\BoardGame.vcxproj.UnmanagedRegistration.cache')).
+10:43:27.606     1>Target "CoreClean: (TargetId:5)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" (target "Clean" depends on it):
+                   Task "Delete" (TaskId:5)
+                     Task Parameter:
+                         Files=
+                             Release\\TempCA\BoardGame.pdb
+                             Release\\TempCA\BoardGame.exe (TaskId:5)
+                     Task Parameter:TreatErrorsAsWarnings=True (TaskId:5)
+                     File "Release\\TempCA\BoardGame.pdb" doesn't exist. Skipping. (TaskId:5)
+                     File "Release\\TempCA\BoardGame.exe" doesn't exist. Skipping. (TaskId:5)
+                   Done executing task "Delete". (TaskId:5)
+                   Using "ReadLinesFromFile" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "ReadLinesFromFile" (TaskId:6)
+                     Task Parameter:File=Release\BoardGame.vcxproj.FileListAbsolute.txt (TaskId:6)
+                   Done executing task "ReadLinesFromFile". (TaskId:6)
+                   Using "FindUnderPath" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "FindUnderPath" (TaskId:7)
+                     Task Parameter:Path=E:\Work\coding\c++\BoardGame\Release\ (TaskId:7)
+                     Comparison path is "E:\Work\coding\c++\BoardGame\Release\". (TaskId:7)
+                   Done executing task "FindUnderPath". (TaskId:7)
+                   Task "FindUnderPath" (TaskId:8)
+                     Task Parameter:Path=Release\ (TaskId:8)
+                     Comparison path is "Release\". (TaskId:8)
+                   Done executing task "FindUnderPath". (TaskId:8)
+                   Task "Delete" (TaskId:9)
+                     Task Parameter:TreatErrorsAsWarnings=True (TaskId:9)
+                   Done executing task "Delete". (TaskId:9)
+                   Using "RemoveDuplicates" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "RemoveDuplicates" (TaskId:10)
+                   Done executing task "RemoveDuplicates". (TaskId:10)
+                   Using "MakeDir" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "MakeDir" (TaskId:11)
+                     Task Parameter:Directories=Release\ (TaskId:11)
+                   Done executing task "MakeDir". (TaskId:11)
+                   Using "WriteLinesToFile" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "WriteLinesToFile" (TaskId:12)
+                     Task Parameter:File=Release\BoardGame.vcxproj.FileListAbsolute.txt (TaskId:12)
+                     Task Parameter:Overwrite=True (TaskId:12)
+                   Done executing task "WriteLinesToFile". (TaskId:12)
+10:43:27.610     1>Done building target "CoreClean" in project "BoardGame.vcxproj".: (TargetId:5)
+10:43:27.610     1>Target "AssignProjectConfiguration: (TargetId:6)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" (target "PrepareProjectReferences" depends on it):
+                   Set Property: ShouldUnsetParentConfigurationAndPlatform=true
+                   Using "AssignProjectConfiguration" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "AssignProjectConfiguration" (TaskId:13)
+                     Task Parameter:CurrentProject=e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj (TaskId:13)
+                     Task Parameter:CurrentProjectConfiguration=Release (TaskId:13)
+                     Task Parameter:CurrentProjectPlatform=Win32 (TaskId:13)
+                     Task Parameter:OutputType=exe (TaskId:13)
+                     Task Parameter:ResolveConfigurationPlatformUsingMappings=False (TaskId:13)
+                     Task Parameter:SolutionConfigurationContents=<SolutionConfiguration>
+                     <ProjectConfiguration Project="{fae39b5e-0275-4de7-ab0a-574b21eb05f2}" AbsolutePath="e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj">Release|Win32</ProjectConfiguration>
+                     </SolutionConfiguration> (TaskId:13)
+                     Task Parameter:OnlyReferenceAndBuildProjectsEnabledInSolutionConfiguration=True (TaskId:13)
+                     Task Parameter:ShouldUnsetParentConfigurationAndPlatform=True (TaskId:13)
+                   Done executing task "AssignProjectConfiguration". (TaskId:13)
+10:43:27.611     1>Done building target "AssignProjectConfiguration" in project "BoardGame.vcxproj".: (TargetId:6)
+10:43:27.611     1>Target "_SplitProjectReferencesByFileExistence: (TargetId:7)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" (target "PrepareProjectReferences" depends on it):
+                   Task "ResolveNonMSBuildProjectOutput" skipped, due to false condition; ('$(BuildingInsideVisualStudio)'=='true' and '@(ProjectReferenceWithConfiguration)'!='') was evaluated as ('true'=='true' and ''!='').
+10:43:27.611     1>Done building target "_SplitProjectReferencesByFileExistence" in project "BoardGame.vcxproj".: (TargetId:7)
+10:43:27.611     1>Target "_GetProjectReferenceTargetFrameworkProperties: (TargetId:8)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" (target "PrepareProjectReferences" depends on it):
+                   Set Property: ReferringTargetFrameworkForProjectReferences=.NETFramework,Version=v4.0
+                   Using "MSBuild" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "MSBuild" (TaskId:14)
+                     Task Parameter:Targets=GetTargetFrameworks (TaskId:14)
+                     Task Parameter:BuildInParallel=True (TaskId:14)
+                     Task Parameter:RemoveProperties=;TargetFramework;RuntimeIdentifier (TaskId:14)
+                     Task Parameter:SkipNonexistentTargets=True (TaskId:14)
+                   Done executing task "MSBuild". (TaskId:14)
+                   Task "GetReferenceNearestTargetFrameworkTask" skipped, due to false condition; ('@(_ProjectReferenceTargetFrameworkPossibilities->Count())' != '0' and '$(ReferringTargetFrameworkForProjectReferences)' != '') was evaluated as ('0' != '0' and '.NETFramework,Version=v4.0' != '').
+10:43:27.613     1>Done building target "_GetProjectReferenceTargetFrameworkProperties" in project "BoardGame.vcxproj".: (TargetId:8)
+10:43:27.613     1>Target "PrepareProjectReferences: (TargetId:9)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" (target "CleanReferencedProjects" depends on it):
+10:43:27.613     1>Done building target "PrepareProjectReferences" in project "BoardGame.vcxproj".: (TargetId:9)
+10:43:27.613     1>Target "CleanReferencedProjects: (TargetId:10)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" (target "Clean" depends on it):
+                   Task "MSBuild" skipped, due to false condition; ('$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('true' != 'true' and 'true' == 'true' and '' != '').
+10:43:27.613     1>Done building target "CleanReferencedProjects" in project "BoardGame.vcxproj".: (TargetId:10)
+10:43:27.613     1>Target "CleanPublishFolder: (TargetId:11)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" (target "Clean" depends on it):
+                   Task "RemoveDir" skipped, due to false condition; ('$(PublishDir)'=='$(OutputPath)app.publish\' and Exists('$(PublishDir)')) was evaluated as ('E:\Work\coding\c++\BoardGame\Release\app.publish\'=='E:\Work\coding\c++\BoardGame\Release\app.publish\' and Exists('E:\Work\coding\c++\BoardGame\Release\app.publish\')).
+10:43:27.613     1>Done building target "CleanPublishFolder" in project "BoardGame.vcxproj".: (TargetId:11)
+10:43:27.613     1>Target "AfterClean: (TargetId:12)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" (target "Clean" depends on it):
+10:43:27.613     1>Done building target "AfterClean" in project "BoardGame.vcxproj".: (TargetId:12)
+                   Target "EntityClean" skipped, due to false condition; ('@(EntityDeploy)' != '') was evaluated as ('' != '').
+10:43:27.613     1>Target "BeforeCppClean: (TargetId:13)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets" from project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" (target "CppClean" depends on it):
+10:43:27.613     1>Done building target "BeforeCppClean" in project "BoardGame.vcxproj".: (TargetId:13)
+10:43:27.613     1>Target "CoreCppClean: (TargetId:14)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets" from project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" (target "CppClean" depends on it):
+                   Task "MakeDir" (TaskId:15)
+                     Task Parameter:Directories=Release\ (TaskId:15)
+                   Done executing task "MakeDir". (TaskId:15)
+                   Using "CppClean" task from assembly "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Build.CppTasks.Common.dll".
+                   Task "CppClean" (TaskId:16)
+                     Task Parameter:FoldersToClean=Release\;Release\BoardGame.tlog\ (TaskId:16)
+                     Task Parameter:FilesExcludedFromClean=BoardGame.Build.CppClean.log (TaskId:16)
+                     Task Parameter:DoDelete=True (TaskId:16)
+                     Task Parameter:FilePatternsToDeleteOnClean=*.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi;E:\Work\coding\c++\BoardGame\Release\BoardGame.exe.manifest;E:\Work\coding\c++\BoardGame\Release\BoardGame.tlb;E:\Work\coding\c++\BoardGame\Release\BoardGame.pdb;E:\Work\coding\c++\BoardGame\Release\BoardGame.exe;E:\Work\coding\c++\BoardGame\Release\BoardGame.bsc;E:\Work\coding\c++\BoardGame\Release\BoardGame.ilk;E:\Work\coding\c++\BoardGame\Release\BoardGame.exe.intermediate.manifest (TaskId:16)
+                     Output Item(s): 
+                         DeletedFilesByCppCleanTask=
+                             e:\work\coding\c++\boardgame\release\boardgame.ipdb
+                             e:\work\coding\c++\boardgame\release\boardgame.iobj
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.pch.codeanalysis
+                             e:\work\coding\c++\boardgame\boardgame\release\vc141.pdb
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.pch.codeanalysisast
+                             e:\work\coding\c++\boardgame\boardgame\release\pch.nativecodeanalysis.xml
+                             e:\work\coding\c++\boardgame\boardgame\release\pch.obj
+                             e:\work\coding\c++\boardgame\boardgame\release\position.nativecodeanalysis.xml
+                             e:\work\coding\c++\boardgame\boardgame\release\monster.nativecodeanalysis.xml
+                             e:\work\coding\c++\boardgame\boardgame\release\gift.nativecodeanalysis.xml
+                             e:\work\coding\c++\boardgame\boardgame\release\game.nativecodeanalysis.xml
+                             e:\work\coding\c++\boardgame\boardgame\release\character.nativecodeanalysis.xml
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.nativecodeanalysis.xml
+                             e:\work\coding\c++\boardgame\boardgame\release\alpaca.nativecodeanalysis.xml
+                             e:\work\coding\c++\boardgame\boardgame\release\alpaca.obj
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.obj
+                             e:\work\coding\c++\boardgame\boardgame\release\character.obj
+                             e:\work\coding\c++\boardgame\boardgame\release\game.obj
+                             e:\work\coding\c++\boardgame\boardgame\release\gift.obj
+                             e:\work\coding\c++\boardgame\boardgame\release\monster.obj
+                             e:\work\coding\c++\boardgame\boardgame\release\position.obj
+                             e:\work\coding\c++\boardgame\release\boardgame.exe
+                             e:\work\coding\c++\boardgame\release\boardgame.pdb
+                             e:\work\coding\c++\boardgame\boardgame\release\nativecodeanalysis.read.1.tlog
+                             e:\work\coding\c++\boardgame\boardgame\release\vc.nativecodeanalysis.all.xml
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.tlog\boardgame.write.1u.tlog
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.tlog\cl.command.1.tlog
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.tlog\cl.read.1.tlog
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.tlog\cl.write.1.tlog
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.tlog\link.command.1.tlog
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.tlog\link.read.1.tlog
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.tlog\link.write.1.tlog (TaskId:16)
+                   Done executing task "CppClean". (TaskId:16)
+                   Task "WriteLinesToFile" (TaskId:17)
+                     Task Parameter:File=Release\BoardGame.Build.CppClean.log (TaskId:17)
+                     Task Parameter:
+                         Lines=
+                             e:\work\coding\c++\boardgame\release\boardgame.ipdb
+                             e:\work\coding\c++\boardgame\release\boardgame.iobj
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.pch.codeanalysis
+                             e:\work\coding\c++\boardgame\boardgame\release\vc141.pdb
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.pch.codeanalysisast
+                             e:\work\coding\c++\boardgame\boardgame\release\pch.nativecodeanalysis.xml
+                             e:\work\coding\c++\boardgame\boardgame\release\pch.obj
+                             e:\work\coding\c++\boardgame\boardgame\release\position.nativecodeanalysis.xml
+                             e:\work\coding\c++\boardgame\boardgame\release\monster.nativecodeanalysis.xml
+                             e:\work\coding\c++\boardgame\boardgame\release\gift.nativecodeanalysis.xml
+                             e:\work\coding\c++\boardgame\boardgame\release\game.nativecodeanalysis.xml
+                             e:\work\coding\c++\boardgame\boardgame\release\character.nativecodeanalysis.xml
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.nativecodeanalysis.xml
+                             e:\work\coding\c++\boardgame\boardgame\release\alpaca.nativecodeanalysis.xml
+                             e:\work\coding\c++\boardgame\boardgame\release\alpaca.obj
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.obj
+                             e:\work\coding\c++\boardgame\boardgame\release\character.obj
+                             e:\work\coding\c++\boardgame\boardgame\release\game.obj
+                             e:\work\coding\c++\boardgame\boardgame\release\gift.obj
+                             e:\work\coding\c++\boardgame\boardgame\release\monster.obj
+                             e:\work\coding\c++\boardgame\boardgame\release\position.obj
+                             e:\work\coding\c++\boardgame\release\boardgame.exe
+                             e:\work\coding\c++\boardgame\release\boardgame.pdb
+                             e:\work\coding\c++\boardgame\boardgame\release\nativecodeanalysis.read.1.tlog
+                             e:\work\coding\c++\boardgame\boardgame\release\vc.nativecodeanalysis.all.xml
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.tlog\boardgame.write.1u.tlog
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.tlog\cl.command.1.tlog
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.tlog\cl.read.1.tlog
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.tlog\cl.write.1.tlog
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.tlog\link.command.1.tlog
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.tlog\link.read.1.tlog
+                             e:\work\coding\c++\boardgame\boardgame\release\boardgame.tlog\link.write.1.tlog (TaskId:17)
+                     Task Parameter:Overwrite=True (TaskId:17)
+                   Done executing task "WriteLinesToFile". (TaskId:17)
+10:43:27.634     1>Done building target "CoreCppClean" in project "BoardGame.vcxproj".: (TargetId:14)
+10:43:27.634     1>Target "AfterCppClean: (TargetId:15)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets" from project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" (target "CppClean" depends on it):
+10:43:27.634     1>Done building target "AfterCppClean" in project "BoardGame.vcxproj".: (TargetId:15)
+10:43:27.634     1>Target "PGInstrumentedClean: (TargetId:16)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets" from project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" (target "CppClean" depends on it):
+                   Task "Delete" (TaskId:18)
+                   Done executing task "Delete". (TaskId:18)
+10:43:27.634     1>Done building target "PGInstrumentedClean" in project "BoardGame.vcxproj".: (TargetId:16)
+10:43:27.634     1>Target "CppClean: (TargetId:17)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets" from project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" (target "Clean" depends on it):
+10:43:27.634     1>Done building target "CppClean" in project "BoardGame.vcxproj".: (TargetId:17)
+                   Target "_CheckForInvalidConfigurationAndPlatform" skipped. Previously built successfully.
+                   Target "_CheckForInvalidConfigurationAndPlatform" skipped. Previously built successfully.
+10:43:27.634     1>Target "Clean: (TargetId:18)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" (entry point):
+10:43:27.634     1>Done building target "Clean" in project "BoardGame.vcxproj".: (TargetId:18)
+10:43:27.634     1>Done Building Project "e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj" (Clean target(s)).
+
+Project Performance Summary:
+       52 ms  e:\Work\coding\c++\BoardGame\BoardGame\BoardGame.vcxproj   1 calls
+                 52 ms  Clean                                      1 calls
+
+Target Performance Summary:
+        0 ms  CleanReferencedProjects                    1 calls
+        0 ms  PGInstrumentedClean                        1 calls
+        0 ms  AfterCppClean                              1 calls
+        0 ms  BeforeCppClean                             1 calls
+        0 ms  AfterClean                                 1 calls
+        0 ms  CleanPublishFolder                         1 calls
+        0 ms  CppClean                                   1 calls
+        0 ms  Clean                                      1 calls
+        0 ms  _SplitProjectReferencesByFileExistence     1 calls
+        0 ms  BeforeClean                                1 calls
+        0 ms  PrepareProjectReferences                   1 calls
+        1 ms  AssignProjectConfiguration                 1 calls
+        2 ms  _GetProjectReferenceTargetFrameworkProperties   1 calls
+        4 ms  CoreClean                                  1 calls
+        4 ms  _PrepareForClean                           1 calls
+       19 ms  _CheckForInvalidConfigurationAndPlatform   1 calls
+       21 ms  CoreCppClean                               1 calls
+
+Task Performance Summary:
+        0 ms  RemoveDuplicates                           1 calls
+        0 ms  MSBuild                                    1 calls
+        1 ms  AssignProjectConfiguration                 1 calls
+        1 ms  WriteLinesToFile                           2 calls
+        1 ms  ReadLinesFromFile                          1 calls
+        1 ms  MakeDir                                    2 calls
+        2 ms  FindUnderPath                              2 calls
+        3 ms  Message                                    2 calls
+        3 ms  Delete                                     4 calls
+       15 ms  CppClean                                   1 calls
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.04
